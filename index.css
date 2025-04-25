@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    padding: 20px;
+}
+
+h3 {
+    color: #EEEEEE;
+    font-family: Verdana, serif;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.team {
+    text-align: center;
+}
+
+#home-marks, #guest-marks {
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;                                      
+    font-weight: 400;
+    font-size: 90px;
+    padding: 12px 60px 4px 60px;
+    background-color: #080001;
+    border-radius: 4px;
+    margin: 0 40px 40px 40px;
+    min-width: 180px;
+}
+
+button {
+    padding: 6px 16px;
+    color: #9AABD8;
+    background-color: #1B244A;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    border: 2px solid #9AABD8;
+    border-radius: 4px;
+}
